@@ -1,5 +1,5 @@
-The objective of this project is to build a classifier that can predict whether a piece of news is fake based on its content. 
-In our project we used spaCy library for NLP analysis, and different Bag Of Words and Deep Learning NLP models.
+The objective of this project is to build a classifier that can predict whether a piece of news is fake or real based on its content. 
+NLP analysis was done with spaCy library and different Bag Of Words and Deep Learning NLP models.
 
 The data used for this project was drawn from Kaggle datasets:  https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset.
 
